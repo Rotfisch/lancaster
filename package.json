@@ -1,0 +1,22 @@
+{
+  "name": "lancaster",
+  "version": "1.0.0",
+  "description": "Lancaster automa",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rotfisch/lancaster.git"
+  },
+  "author": "Christof Kordus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rotfisch/lancaster/issues"
+  },
+  "homepage": "https://github.com/Rotfisch/lancaster#readme",
+  "dependencies": {
+    "node-watch": "^0.7.3"
+  }
+}
